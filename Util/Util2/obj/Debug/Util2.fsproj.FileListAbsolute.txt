@@ -1,0 +1,6 @@
+D:\VsProjects\Util\Util2\obj\Debug\ResolveAssemblyReference.cache
+D:\VsProjects\Util\Util2\bin\Debug\Util2.XML
+D:\VsProjects\Util\Util2\bin\Debug\Util2.dll
+D:\VsProjects\Util\Util2\bin\Debug\Util2.pdb
+D:\VsProjects\Util\Util2\obj\Debug\Util2.dll
+D:\VsProjects\Util\Util2\obj\Debug\Util2.pdb
